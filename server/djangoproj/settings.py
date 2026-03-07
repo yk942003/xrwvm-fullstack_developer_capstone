@@ -141,4 +141,4 @@ STATICFILES_DIRS = [
 ]
 
 ALLOWED_HOSTS=['localhost','https://yk942003-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai']
-CSRF_TRUSTED_ORIGINS=['https://yk942003-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/']
+CSRF_TRUSTED_ORIGINS=['https://yk942003-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai']
