@@ -145,5 +145,5 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'frontend/build/static'),
 ]
 
-ALLOWED_HOSTS=['localhost','']
-CSRF_TRUSTED_ORIGINS=['']
+ALLOWED_HOSTS = ['localhost', '']
+CSRF_TRUSTED_ORIGINS = ['']
